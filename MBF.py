@@ -332,16 +332,16 @@ def menu():
                    /+/++//
             \rk*   *\rh /+/++//
              \ /  |/__//
-           {\rmX\rh}v{\rmX\rh}|\rcPRX\rh|==========.
+           {\rmX\rh}v{\rmX\rh}|\rcANC\rh|==========.
              [']  /'|'\           \\
                  /  \  \           '
-                 \_  \_ \_    \rk*\rhSudibyo Antoni
+                 \_  \_ \_    \rk*\rh Sudibyo Antoni :v
 \rk###########################################################
-#             \rb*MULTY BRUTEFORCE FACEBOOK*\rk                 #
-# \rhBY\rp                                             PIRMANSX \rk#
-# \rhGroup FB\rp  https://m.facebook.com/ \rk#
-# \rhGitHub\rp                      https://github.com/sudibyoantoni \rk#
-#       \rmDo Not Use This Tool For IllegaL Purpose          \rk#
+#             \rb*MULTY BRUTEFORCE FACEBOOK*              \rk#
+# \rhBY\rp Sudibyo Antoni Ro'uf                           \rk#
+# \rhFB\rp https://m.facebook.com/                        \rk#
+# \rhGitHub\rp https://github.com/SudibyoAntoni           \rk#
+#       \rmDo Not Use This Tool For IllegaL Purpose       \rk#
 ###########################################################''')
 	tampil('''\rk%s\n\rc1 \rhAmbil id dari group\n\rc2 \rhAmbil id dari daftar teman\n\rc3 \rmKELUAR\n\rk%s'''%('#'*20,'#'*20))
 	i = inputM('[?]PILIH',[1,2,3])
@@ -355,5 +355,3 @@ def menu():
 		keluar()
 bacaData()
 menu()
-
- 
